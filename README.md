@@ -385,6 +385,6 @@ MIT License — use it, modify it, break things with it.
 
 ---
 
-*Built on a Lenovo P11 Gen 2 running NetHunter, Tanzania. Respect the grind.*
+*Built on a Lenovo P11 Gen 2 running NetHunter. Respect the grind.*
 
 **0xb0rn3 | oxbv1** — [github.com/0xb0rn3](https://github.com/0xb0rn3)
